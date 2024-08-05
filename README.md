@@ -5,7 +5,6 @@
         - BOW (Bag of Words)
         - Word2Vec
     - RNN Models
-    - Project
-        - Implement Word Embeddings
-        - Train RNN with Embeddings
-        - Model Serving Streamlit App
+    - Projects
+        - Project 1 : Sentiment Analysis
+        - Project 2 : Next Word Prediction
